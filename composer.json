@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/mime": "^7.1",
+        "egulias/email-validator": "^4.0",
+        "zbateson/mail-mime-parser": "^3.0"
+    }
+}
